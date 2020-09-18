@@ -1,7 +1,7 @@
 # dialogflow-demo
 Demo using dialogflow agent in python
 
-''' shell
+``` shell
 # execute in terminal
 $ python demo.py
-'''
+```
